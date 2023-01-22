@@ -25,5 +25,5 @@ The package Topsis-Ishtdeep-102003315 can be run though the command line as foll
 ```
 
 <br>
-The output file contains columns of input file along with two additional columns having **Topsis_score** and **Rank** .
+The output file contains columns of input file along with two additional columns having Topsis_score and Rank .
 ---
